@@ -1,6 +1,6 @@
 ## Hello there 👋🏽
 - 👩🏽‍💻 I’m currently working on FrogDoku!
-- 🌱 Learning something new every day!
+- 🌱 Learning something new everyday!
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I used to teach Technical game design for 4+ years before becoming a professional game programmer.
 <!--
