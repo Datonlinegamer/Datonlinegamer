@@ -3,7 +3,7 @@
 - 🌱 Learning something new everyday!
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I used to teach Technical game design for 4+ years.
-  <img width="920" height="584" alt="image" src="https://github.com/user-attachments/assets/61d2b442-df8c-4afd-8623-487a0bc0428f" />
+
 
 <!--
 **Datonlinegamer/Datonlinegamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
