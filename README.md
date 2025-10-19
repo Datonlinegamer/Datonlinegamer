@@ -3,7 +3,8 @@
 - 🌱 Learning something new everyday!
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I used to teach Technical game design for 4+ years.
--  ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)  ![C#](https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=c-sharp&logoColor=white)
+-  ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)  ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 <!--
 **Datonlinegamer/Datonlinegamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
