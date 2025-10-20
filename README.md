@@ -3,7 +3,7 @@
 - 🌱 Learning something new everyday!
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I used to teach Technical game design for 4+ years.
--  ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)    ![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
+-  ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)    ![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white) ![DirectX 11](https://img.shields.io/badge/DirectX-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
