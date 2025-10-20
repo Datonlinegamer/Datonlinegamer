@@ -1,5 +1,5 @@
 ## Hello there 👋🏽
-- 👩🏽‍💻 I’m currently with Digital Scorpion Interactive!
+- 👩🏽‍💻 I’m currently working with Digital Scorpion Interactive!
 - 📚 Learning something new everyday!
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I used to teach Technical game design for 4+ years.
