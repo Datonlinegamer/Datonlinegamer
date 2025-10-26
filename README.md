@@ -1,4 +1,4 @@
-<h2 style="color:#0ff;">Hello there 👋🏽</h2>
+<h2 style="color:#0ff;">Hello There 👋🏽</h2>
 
 <ul>
   <li>👩🏽‍💻 I’m currently working with <strong>Digital Scorpion Interactive</strong>!</li>
