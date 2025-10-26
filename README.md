@@ -8,7 +8,7 @@
   <li>⚡ Fun fact: I used to teach Technical Game Design for 4+ years</li>
 </ul>
 
-<h2 style="color:#0ff;">Technical Experience 🛠</h2>
+<h2 style="color:#0ff;">Technical Experience 🧰</h2>
 
 <p>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
