@@ -1,11 +1,11 @@
 <h2 style="color:#0ff;">Hello There 👋🏽</h2>
 
 <ul>
-  <li>👩🏽‍💻 I’m currently working with <strong>Digital Scorpion Interactive</strong>!</li>
-  <li>🚺 Pronouns: <strong>she/her</strong></li>
+  <li>👩🏽‍💻 I’m currently working with Digital Scorpion Interactive!</li>
+  <li>🚺 Pronouns: she/her</li>
   <li>🏫 Majored in Game Programming at CG Spectrum</li>
   <li>📚 Learning something new every day!</li>
-  <li>⚡ Fun fact: I used to teach <strong>Technical Game Design</strong> for 4+ years</li>
+  <li>⚡ Fun fact: I used to teach Technical Game Design for 4+ years</li>
 </ul>
 
 <h2 style="color:#0ff;">Technical Experience 🛠</h2>
