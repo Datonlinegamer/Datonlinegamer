@@ -1,6 +1,6 @@
 - <h2 style="color:#0ff">Hello there👋🏽</h2>
 - 👩🏽‍💻 I’m currently working with Digital Scorpion Interactive!
-- 🚺Pronouns: she/her.
+- 🚺 Pronouns: she/her.
 - 🏫 Majored in Game Programming at CG Spectrum.
 - 📚 Learning something new everyday!
 - ⚡ Fun fact: I used to teach Technical game design for 4+ years.
