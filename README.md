@@ -1,4 +1,4 @@
-## Hello there 👋🏽
+![Hello there](https://img.shields.io/badge/Hello%20there-blue?style=for-the-badge) 👋🏽
 - 👩🏽‍💻 I’m currently working with Digital Scorpion Interactive!
 - 📚 Learning something new everyday!
 - 😄 Pronouns: she/her.
