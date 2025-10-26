@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine Badge" />
-    <img src="https://img.shields.io/badge/UnityEngine-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Engine Badge" />
+    <img src="https://img.shields.io/badge/Unity Engine-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Engine Badge" />
   <img src="https://img.shields.io/badge/DirectX%2011-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="DirectX 11 Badge" />
   <img src="https://img.shields.io/badge/DirectX%2012-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="DirectX 12 Badge" />
 </p>
