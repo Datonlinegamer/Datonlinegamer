@@ -3,7 +3,7 @@
 <ul>
   <li>👩🏽‍💻 I’m currently working with <strong>Digital Scorpion Interactive</strong>!</li>
   <li>🚺 Pronouns: <strong>she/her</strong></li>
-  <li>🏫 Majored in <strong>Game Programming</strong> at <strong>CG Spectrum</strong></li>
+  <li>🏫 Majored in Game Programming at CG Spectrum</li>
   <li>📚 Learning something new every day!</li>
   <li>⚡ Fun fact: I used to teach <strong>Technical Game Design</strong> for 4+ years</li>
 </ul>
