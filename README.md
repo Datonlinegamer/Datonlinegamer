@@ -1,4 +1,4 @@
-<h2><span style="color:#ff69b4">Hello there</span></h2> 👋🏽
+<h2><Hello there </h2> 👋🏽
 - 👩🏽‍💻 I’m currently working with Digital Scorpion Interactive!
 - 📚 Learning something new everyday!
 - 😄 Pronouns: she/her.
