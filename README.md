@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/DirectX%2012-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="DirectX 12 Badge" />
 </p>
 
-<h2 style="color:#0ff;">Specializing in ✨</h2>
+<h2 style="color:#0ff;">Specializing In ✨</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Gameplay%20Systems-000000?style=for-the-badge&logo=joystick&logoColor=white" alt="Gameplay Systems Badge" />
