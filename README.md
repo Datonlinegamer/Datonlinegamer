@@ -1,7 +1,7 @@
 <h2 style="color:#0ff;">Hello There 👋🏽</h2>
 
 <ul>
-  <li>👩🏽‍💻 I’m currently a Unreal 5 Developer at Digital Scorpion Interactive</li>
+  <li>👩🏽‍💻 I’m currently a Unreal Engine 5 Developer at Digital Scorpion Interactive</li>
   <li>🚺 Pronouns: she/her</li>
   <li>🏫 Majored in Game Programming at CG Spectrum</li>
   <li>📚 Learning something new every day!</li>
