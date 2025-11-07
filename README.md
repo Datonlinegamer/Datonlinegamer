@@ -5,7 +5,7 @@
   <li>🚺 Pronouns: she/her</li>
   <li>🏫 Majored in Game Programming at CG Spectrum</li>
   <li>📚 Learning something new every day!</li>
-  <li>⚡ Fun fact: I used to teach Technical Game Design for 4+ years</li>
+  <li>⚡ Fun fact: I use to teach Technical Game Design for 4+ years</li>
 </ul>
 
 <h2 style="color:#0ff;">Technical Experience 🧰</h2>
