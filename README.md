@@ -22,7 +22,7 @@
 <h2 style="color:#0ff;">Specializing In ✨</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Gameplay%20Systems-000000?style=for-the-badge&logo=joystick&logoColor=white" alt="Gameplay Systems Badge" />
+  <img src="https://img.shields.io/badge/Game%20Systems-000000?style=for-the-badge&logo=joystick&logoColor=white" alt="Gameplay Systems Badge" />
 </p>
 <!--
 **Datonlinegamer/Datonlinegamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
